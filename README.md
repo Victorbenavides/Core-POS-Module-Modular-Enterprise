@@ -57,7 +57,7 @@ El primer filtro del sistema. Robusto, sencillo y directo a lo que importa: vend
 ### 💡 The Vision
 Most POS systems are closed boxes. This project was developed as a collaborative effort to build an ultra-solid **Core** that serves as a launchpad for a complete business suite. 
 
-Right now, it's a powerful POS, but the architecture is already "plug-and-play" ready for **Agendas, CRM, E-commerce, Finance, and Calendars**. It’s a solution designed so a business never outgrows its software; you just add modules as needed.
+Right now, it's a powerful POS, but the architecture is already "plug-and-play" ready for **Planners, CRM, E-commerce, Finance, and Calendars**. It’s a solution designed so a business never outgrows its software; you just add modules as needed.
 
 ### 🔐 Licensing & Security
 Professional software requires professional control.
